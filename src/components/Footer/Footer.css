@@ -1,0 +1,21 @@
+.footer {
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    justify-content: space-between;
+    color: #000;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    justify-content: center;
+    text-align: center;
+    height: 130px;
+}
+
+.redes img {
+    padding: 0px 15px;
+    width: 40px;
+    height: 40px;
+    padding-top: 40px;
+}
+
+/* Se pueden guardar datos en algo llamado storage */
